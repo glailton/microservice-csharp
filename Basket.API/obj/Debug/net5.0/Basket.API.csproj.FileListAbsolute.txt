@@ -35,3 +35,10 @@ C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\obj\Debug\net
 C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\obj\Debug\net5.0\ref\Basket.API.dll
 C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\obj\Debug\net5.0\Basket.API.pdb
 C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\obj\Debug\net5.0\Basket.API.genruntimeconfig.cache
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+C:\Users\francisco.glailton\Projetos\.NET\Microservices\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll
