@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "EKZVgZ12lecpecjl/HFxxsgnFAX5YE1DO0XLf7BRKdIZF1x60gbUktQD8NiIKbPVsur54gYvuAL5BZp8vSCZEQ==",
+  "dgSpecHash": "WzqauTB4O4P9ZmfqWIU2shDeVKN7oPfzW0FkO+dke4KAX3tE2DcjtMx4cjhYk9vxkXQJzeK8eG8+jq08WfGnDg==",
   "success": true,
   "projectFilePath": "C:\\Users\\francisco.glailton\\Projetos\\.NET\\Microservices\\Discount.gRPC\\Discount.gRPC.csproj",
   "expectedPackageFiles": [
@@ -27,6 +27,7 @@
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.0.3\\microsoft.extensions.logging.abstractions.3.0.3.nupkg.sha512",
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\microsoft.extensions.options\\3.0.3\\microsoft.extensions.options.3.0.3.nupkg.sha512",
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.3\\microsoft.extensions.primitives.3.0.3.nupkg.sha512",
+    "C:\\Users\\francisco.glailton\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\npgsql\\6.0.0-preview5\\npgsql.6.0.0-preview5.nupkg.sha512",
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.5.1\\system.diagnostics.diagnosticsource.4.5.1.nupkg.sha512",
     "C:\\Users\\francisco.glailton\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
